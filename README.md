@@ -1,6 +1,7 @@
 # SQL
 
 Used CES data files from:  https://download.bls.gov/pub/time.series/ce/ 
+
 a.	4/2/2021    8:32 AM      1274831 ce.data.Goog
 
 b.	4/2/2021    8:31 AM         2920 ce.datatype
